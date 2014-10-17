@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xkx:home|Door43 (xkx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xkx|d43-xkx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xkx/archive/master.zip|d43-xkx.zip]]
+
+**Recent Changes**
+{{changes>ns = xkx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xkx|Ethnologue data]]
+
